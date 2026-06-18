@@ -7,3 +7,4 @@ token3 = 'nAH2VzKrMrRjySLlt8HCdFU3tM2TUuUZgh39NV'
 integration_branch_token = 'nAH2VzKrMrRjySLlt8HCdFU3tM2TUuUZgh39NV'
 integration_branch_token_2 = "38c47f19e349153fa963bb3b3212fe8e-us12"
 integration_branch_token_3 = "38c47f19e349153fa963bb3b3212fe8e-us12"
+aws_secret_access_key = "4f3a1c9e2b7d8a0f6c1e9d4b3a2f7c8e5d1a0b9c"
